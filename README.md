@@ -49,8 +49,6 @@ Dosyada `sentiment_label`, `sentiment_confidence`, `rating_sentiment_match` gibi
 
 Her defterin başındaki **Open in Colab** rozetine tıklayın. Sonra `Çalışma zamanı → Tümünü çalıştır` deyin. Defterler veri dosyasını bu depodan kendiliğinden indirir, elle yükleme gerekmez.
 
-`g2_anahtarlik.ipynb` defteri Zemberek kurduğu için yaklaşık bir dakika sürer. Öteki iki defter daha kısadır.
-
 Kendi verinizle çalışmak isterseniz defterin veri hücresindeki `VERI_URL` değişkenini değiştirin. Sütun adları yukarıdaki tabloyla aynı olmalıdır.
 
 Defterler çıktıyı hem ekrana basar hem de indirilebilir dosya olarak kaydeder.
