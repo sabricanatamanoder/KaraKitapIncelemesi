@@ -1,4 +1,4 @@
-# Kara Kitap — Goodreads Alımlama Çözümlemesi
+# Kara Kitap — Goodreads Yorumları Üzerinden Alımlama İncelemesi
 
 Depo adresi: https://github.com/sabricanatamanoder/KaraKitapIncelemesi
 
