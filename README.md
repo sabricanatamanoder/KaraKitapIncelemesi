@@ -1,2 +1,2 @@
-# BeklentiUfkundanUfuk-zd-m-ne
-Bu repoda Kara Kitap romanı incelemesinde kullanılan kaynak kodlar ve çıktılar bulunmaktadır.
+# Kara Kitap İncelemesi
+Bu repoda, Beklenti Ufkundan Ufuk İzdüşümüne: Kara Kitap'ın Goodreads Yorumları Örneğinde Hesaplamalı Bir Alımlama Modeli Önerisi makalesinde kullanılan kaynak kodlar ve çıktılar bulunmaktadır.
